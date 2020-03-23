@@ -82,7 +82,6 @@
   }
 
   #people_grid {
-    margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;

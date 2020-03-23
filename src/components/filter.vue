@@ -145,7 +145,7 @@
   }
 
   ul {
-    max-height: 625px;
+    max-height: 615px;
     overflow: scroll;
     padding: 0;
     border: 2px;
