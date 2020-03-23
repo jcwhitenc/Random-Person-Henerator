@@ -53,7 +53,6 @@
           'imageSource': imageURL
         };
         this.$root.$data.people = this.$root.$data.people.concat(newPerson);
-        console.log()
       },
       getRandomItem(list) {
         let index = Math.floor(Math.random() * Math.floor(list.length));
